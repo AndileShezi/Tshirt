@@ -1,0 +1,14 @@
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\bin\Debug\netstandard2.0\TShirtApp.deps.json
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\bin\Debug\netstandard2.0\TShirtApp.dll
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\bin\Debug\netstandard2.0\ref\TShirtApp.dll
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\bin\Debug\netstandard2.0\TShirtApp.pdb
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\TShirtApp.AssemblyInfoInputs.cache
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\TShirtApp.AssemblyInfo.cs
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\TShirtApp.dll
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\ref\TShirtApp.dll
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\TShirtApp.pdb
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\TShirtApp.csprojAssemblyReference.cache
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\view\MainPage.xaml.g.cs
+C:\Xamarin\TShirtApp\TShirtAppSln\TShirtApp\TShirtApp\obj\Debug\netstandard2.0\view\OrderPage.xaml.g.cs

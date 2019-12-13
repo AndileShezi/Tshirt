@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TShirtApp.MainPage"
+
+             BackgroundImageSource="West.jpeg">
+
+    <StackLayout>
+      
+        <!-- Place new controls here -->
+
+
+
+
+        <Image Source="y1.jpg"  Margin="50"></Image>
+
+
+
+        <Button x:Name="OrderButton"  Text="Order" Opacity="50" Margin="50" Clicked="Button_Clicked"></Button>
+                
+
+    </StackLayout>
+
+</ContentPage>

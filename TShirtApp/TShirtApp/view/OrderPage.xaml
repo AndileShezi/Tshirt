@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TShirtApp.OrderPage"
+             >
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancel" Clicked="Cancel_Clicked" />
+        <ToolbarItem Text="Save" Clicked="Save_Clicked" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        
+        <StackLayout> 
+            <Button x:Name="ViewInfo" Text="View Orders" Clicked="ViewInfo_Clicked"></Button>
+            <Label Text="Name" FontSize="Medium" />
+            <Entry Text="{Binding Name}" d:Text="Item name" FontSize="Medium" />
+            <Label Text="Gender" FontSize="Medium" />
+            <Editor Text="{Binding Gender}" d:Text="Item description" FontSize="Medium" Margin="0" />
+            <Label Text="Size" FontSize="Medium" />
+            <Entry Text="{Binding Size}" d:Text="Item name" FontSize="Medium" />
+            <Label Text="Date" FontSize="Medium" />
+            <DatePicker Format="D" Margin="10.0" Date="{Binding Date}" ></DatePicker>
+            <Label Text="Color" FontSize="Medium" />
+            <Entry Text="{Binding Color}" d:Text="Item name" FontSize="Medium" />
+            <Label Text="Address" FontSize="Medium" />
+            <Editor Text="{Binding Addres}" FontSize="Medium" Margin="0" />
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
